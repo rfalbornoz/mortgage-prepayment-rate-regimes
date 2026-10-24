@@ -1,0 +1,21 @@
+# Freddie Mac data (not redistributable) and anything derived from it
+Data/
+data/
+Output/
+output/
+*.zip
+sample_orig_*.txt
+sample_svcg_*.txt
+PMMS_history.csv
+file_layout*.xlsx
+*.parquet
+*.joblib
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
